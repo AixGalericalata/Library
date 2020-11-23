@@ -29,7 +29,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QLabel" name="label_2">
+  <widget class="QLabel" name="name">
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -61,7 +61,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QLabel" name="label_4">
+  <widget class="QLabel" name="author">
    <property name="geometry">
     <rect>
      <x>-1</x>
@@ -93,7 +93,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QLabel" name="label_6">
+  <widget class="QLabel" name="year">
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -125,7 +125,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QLabel" name="label_8">
+  <widget class="QLabel" name="genre">
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -141,7 +141,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QLabel" name="label_9">
+  <widget class="QLabel" name="picture">
    <property name="geometry">
     <rect>
      <x>140</x>
